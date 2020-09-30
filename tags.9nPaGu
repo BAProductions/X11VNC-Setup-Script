@@ -1,0 +1,4 @@
+isPackageInstalled	iinitX11vnc.sh	/^function isPackageInstalled() {$/;"	f
+SetupX11vnc	iinitX11vnc.sh	/^function SetupX11vnc() {$/;"	f
+SetupAvahiDaemon	iinitX11vnc.sh	/^function SetupAvahiDaemon() {$/;"	f
+init	iinitX11vnc.sh	/^function init() {$/;"	f
